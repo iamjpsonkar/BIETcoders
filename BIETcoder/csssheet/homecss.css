@@ -1,0 +1,128 @@
+.bgt{background-image:url("../image/end1.png");border-collapse: collapse;border:transparent;}
+
+.bg{background-image:url("../image/end.png");border-collapse: collapse;border:transparent;}
+
+.atext1{color:cyan;font-weight:italic;font-size:40px;font-family:Cooper;text-align:center; }
+
+.ctext{color:#e7dee7;font-weight:bold;font-size:20px;font-family:Elephant;margin-left:5; }
+.ctext:hover{color:#98584B;font-weight:bold;font-size:20px;font-family:Elephant; }
+
+.pink12 { background-color:#7C7E80; border-collapse: collapse;border:transparent;color:white;font-weight:bold;font-size:20px;font-family:Dutch801 XBd BT;}
+.pink12:hover{background-color:#98584B;border-collapse: collapse;border:transparent;color:red;font-weight:bold;font-size:20px;font-family:Dutch801 XBd BT;}
+
+.dropbtn {
+ color:#fb07f0;font-weight:bold;font-size:30px;font-family:EuroRoman;margin-left:0px;background:#f3bca3;text-align:top; margin-top:0px; background-color:cyan;border-color:red;
+    cursor: pointer;
+}
+
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color:green}
+
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: red;
+}
+.etext:hover{color:red;font-weight:bold;font-size:30px;font-family:EuroRoman;margin-left:0px;background:#f3bca3;text-align:top; margin-top:0px; border-collapse: collapse;border:transparent;background-color:#fb07f0;}
+
+.table1 {border-left:2;}
+
+.col2{background:white;}
+
+
+
+
+
+
+.pink1{background-color:#fb07f0;}
+
+.pink11{background-color:red;border-collapse: collapse;border:transparent;color:white;font-weight:bold;font-size:20px;font-family:Dutch801 XBd BT;align:center;}
+.pink11:hover{background-color:#98584B;border-collapse: collapse;border:transparent;color:red;font-weight:bold;font-size:20px;font-family:Dutch801 XBd BT;}
+
+
+
+.col1{background:#f3bca3;}
+
+
+
+.table {border-collapse: collapse;border:transparent;}
+
+
+.ztext3{font-size:20px;font-family:verdana;background-color:white ;}
+.ztext3:hover{font-size:10px;font-family:verdana; background-color:#AEF684;}
+
+
+.atext2{color:cyan;font-weight:italic;font-size:20px;font-family:Cooper;text-align:center; }
+.atext3{color:red;font-weight:italic;font-size:40px;font-family:verdana;text-align:center; }
+.atext4{color:red;font-weight:italic;font-size:20px;font-family:verdana;text-align:center; }
+.atext{color:green;font-weight:italic;font-size:80px;font-family:Cooper;text-align:center; }
+.atext:hover{color:red;font-weight:italic;font-size:80px;font-family:Cooper;text-align:center; }
+
+
+.b1text{color:white;font-size:20px;font-family:Cooper; }
+
+
+.ztext{font-weight:bold;font-size:20px;font-family:Cooper;background-color:white ;}
+.z1text{font-size:20px;font-family:Cooper;background-color:white ;}
+.ztext:hover{font-weight:bold;font-size:20px;font-family:Cooper; background-color:#AEF684;}
+
+.dtext{color:blue;font-weight:bold;font-size:60px;font-family:EuroRoman;margin-left:30px;text-align:top; margin-top:0px; }
+
+
+
+
+.htext{color:black;font-weight:bold;font-size:20px;font-family:Arial;}
+
+.itext{color:black;font-weight:bold;font-size:20px;font-family:cooper:}
+
+
+
+.mar1{margin-left:30px;}
+.hvr{ COLOR: red; TEXT-DECORATION: none; font-weight: none; background-color:decimal;}
+.hvr:hover { COLOR: red; TEXT-DECORATION: none; font-weight: none;background-color:hexadecimal: }
+
+.bg1{width:100%;height:100%;margin:0 auto;background:cyan;}
+
+.etext{color:#fb07f0;font-weight:bold;font-size:30px;font-family:EuroRoman;margin-left:0px;background:#f3bca3;text-align:top; margin-top:0px; background-color:cyan;border-color:red;}
+
+/* Dropdown Button */
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+
+
+/* Show the dropdown menu on hover */
+
+
+.bgt1{background-image:url("../image/images.jpg");border-collapse: collapse;border:transparent;}
+
+
+
